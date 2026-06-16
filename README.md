@@ -35,16 +35,14 @@ Soy un profesional de TI radicado en Guatemala. Me especializo en la creación d
 
 ### ⚡ Proyectos Destacados
 
-* **[Mi Portafolio Web](REEMPLAZA_ESTO_CON_LA_URL_DE_TU_PORTAFOLIO)**  
+* **[Mi Portafolio Web](https://guillerey-portfolio.netlify.app/#)**  
   Diseño responsivo y maquetación estructurada.
-  
-* **[Infraestructura & Configs](REEMPLAZA_ESTO_CON_LA_URL_DE_TU_REPO)**  
-  *(Sube aquí tus configuraciones de terminal y scripts, si no lo tienes, puedes borrar esta línea por ahora).*
+
 
 ---
 
 ### 📫 Cómo contactarme
 <p>
-  <a href="REEMPLAZA_ESTO_CON_LA_URL_DE_TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tu_correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/guillereidev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:guillerei.dev@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
