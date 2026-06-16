@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hola, soy Guillermo 👋
 
-<!--
-**guillerey/guillerey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web UI Developer | SysAdmin Junior | IT Support Professional
 
-Here are some ideas to get you started:
+Soy un profesional de TI radicado en Guatemala. Me especializo en la creación de interfaces web limpias y responsivas (cero frameworks, puro CSS) y en la administración de infraestructuras de servidores en entornos de laboratorio (Homelab). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+**Desarrollo Web & Datos:**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Sistemas & Entorno de Trabajo:**
+<p>
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Lo que estoy haciendo actualmente
+- 🔭 Desplegando y optimizando mi **Portafolio Web** con un enfoque Mobile-First y de alto rendimiento.
+- ⚙️ Administrando mi **Homelab**, gestionando contenedores LXC y automatización de red.
+- 🌱 Profundizando en consultas SQL y mejores prácticas de soporte de TI.
+
+---
+
+### ⚡ Proyectos Destacados
+
+* **[Mi Portafolio Web](REEMPLAZA_ESTO_CON_LA_URL_DE_TU_PORTAFOLIO)**  
+  Diseño responsivo y maquetación estructurada.
+  
+* **[Infraestructura & Configs](REEMPLAZA_ESTO_CON_LA_URL_DE_TU_REPO)**  
+  *(Sube aquí tus configuraciones de terminal y scripts, si no lo tienes, puedes borrar esta línea por ahora).*
+
+---
+
+### 📫 Cómo contactarme
+<p>
+  <a href="REEMPLAZA_ESTO_CON_LA_URL_DE_TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tu_correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
