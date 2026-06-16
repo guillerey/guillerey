@@ -42,7 +42,6 @@ Soy un profesional de TI radicado en Guatemala. Me especializo en la creación d
 ---
 
 ### 📫 Cómo contactarme
-<p>
-  <a href="www.linkedin.com/in/guillereidev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:guillerei.dev@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guillereidev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillerei.dev@outlook.com)
