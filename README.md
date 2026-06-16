@@ -1,14 +1,14 @@
-# Hola, soy Guillermo 👋
+# Hi, I'm Guillermo 👋
 
-### Web UI Developer | SysAdmin Junior | IT Support Professional
+### Web UI Developer | Junior SysAdmin | IT Support Professional
 
-Soy un profesional de TI radicado en Guatemala. Me especializo en la creación de interfaces web limpias y responsivas (cero frameworks, puro CSS) y en la administración de infraestructuras de servidores en entornos de laboratorio (Homelab). 
+I am an IT professional based in Guatemala. I specialize in building clean, responsive web interfaces (zero frameworks, pure CSS) and managing server infrastructures in homelab environments.
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Tech Stack & Tools
 
-**Desarrollo Web & Datos:**
+**Web Development & Data:**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -16,7 +16,7 @@ Soy un profesional de TI radicado en Guatemala. Me especializo en la creación d
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-**Sistemas & Entorno de Trabajo:**
+**Systems & Environment:**
 <p>
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
@@ -26,22 +26,21 @@ Soy un profesional de TI radicado en Guatemala. Me especializo en la creación d
 
 ---
 
-### 🚀 Lo que estoy haciendo actualmente
-- 🔭 Desplegando y optimizando mi **Portafolio Web** con un enfoque Mobile-First y de alto rendimiento.
-- ⚙️ Administrando mi **Homelab**, gestionando contenedores LXC y automatización de red.
-- 🌱 Profundizando en consultas SQL y mejores prácticas de soporte de TI.
+### 🚀 What I'm currently working on
+- 🔭 Deploying and optimizing my **Web Portfolio** with a Mobile-First, high-performance approach.
+- ⚙️ Managing my **Homelab**, maintaining LXC containers and network automation.
+- 🌱 Deepening my knowledge in SQL queries and modern IT support practices.
 
 ---
 
-### ⚡ Proyectos Destacados
+### ⚡ Featured Projects
 
-* **[Mi Portafolio Web](https://guillerey-portfolio.netlify.app/#)**  
-  Diseño responsivo y maquetación estructurada.
-
-
+* **[My Web Portfolio](https://guillerey-portfolio.netlify.app/#)**  
+  Responsive design and structured layout.
+  
 ---
 
-### 📫 Cómo contactarme
+### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillereidev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillerei.dev@outlook.com)
