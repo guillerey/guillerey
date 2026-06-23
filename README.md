@@ -2,7 +2,7 @@
 
 ### Web UI Developer | IT Support
 
-I build responsive web pages using pure HTML5 and CSS3. I also work in IT support, solving daily technical issues and managing user tickets.
+I build responsive web pages using pure HTML5 and CSS3. I also work in IT support, efficiently solving daily technical issues.
 
 ---
 
@@ -17,9 +17,8 @@ I build responsive web pages using pure HTML5 and CSS3. I also work in IT suppor
 
 **Support & Environment:**
 <p>
-  <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 </p>
 
 ---
